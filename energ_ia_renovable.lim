@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <adxuntos>Captura_de_pantalla_2024-11-01_124306.jpg,Captura_de_pantalla_2024-11-01_124421.jpg,Captura_de_pantalla_2024-11-01_124453.jpg,Captura_de_pantalla_2024-11-01_124530.jpg,Captura_de_pantalla_2024-11-01_124554.jpg,Captura_de_pantalla_2024-11-01_124621.jpg,Captura_de_pantalla_2024-11-01_124651.jpg,Captura_de_pantalla_2024-11-01_124712.jpg,Captura_de_pantalla_2024-11-01_124843.jpg,Captura_de_pantalla_2024-11-01_132854.jpg,Captura_de_pantalla_2024-11-01_155722.jpg,Captura_de_pantalla_2024-11-01_160232.jpg,Captura_de_pantalla_2024-11-01_160432.jpg,Captura_de_pantalla_2024-11-01_161050.jpg,Captura_de_pantalla_2024-11-01_161304.jpg,Captura_de_pantalla_2024-11-01_161445.jpg,Captura_de_pantalla_2024-11-01_161648.jpg,Correcto.mp3,energ_ia_renovable.html,energ_ia_renovable.lim,html.tlm,Incorrecto.mp3</adxuntos>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Energías Renovables</titulo>
+        <autor>Maria Alejandra Toro Gamarra</autor>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="Correcto.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="Incorrecto.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124306.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="center">
+<font color="#080000" face="Times" size="18">¡Hola!<br>
+<br>
+El dia de hoy estaremoas hablando sobre las energías renovables, acompañame en este aventura para ver que podemos descrubir en esta tematica.<br>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124421.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>38</tipo>
+              <mais ir="https://www.youtube.com/watch?v=eRXY4pnLhmI">Link del video</mais>
+              <imaxe>Captura_de_pantalla_2024-11-01_124453.jpg</imaxe>
+              <forma>3</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Times" size="12"></font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="4" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124530.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="5" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124554.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="6" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124621.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="7" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124651.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="8" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124712.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_132854.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="10" >
+              <tipo>4</tipo>
+              <modo>1</modo>
+              <sopa enun="Energía que se obtiene del sol.">solar</sopa>
+              <sopa enun="Energía que utiliza el viento.">eólica</sopa>
+              <sopa enun="Energía que aprovecha el agua.">hidráulica</sopa>
+              <sopa enun="Energía que se origina organicamente.">biomasa</sopa>
+              <sopa enun="Energía que proviene del calor interno.">geotérmica</sopa>
+              <sopa enun="Convierten la luz en energía.">paneles</sopa>
+              <sopa enun="Generan electricidad">turbinas</sopa>
+              <sopa enun="Clave en la produccíon energética.">sostenible</sopa>
+              <enunciado>1</enunciado>
+              <colorea>0</colorea>
+              <cadro>0</cadro>
+        </paxina>
+        <paxina id="11" >
+              <tipo>3</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_155722.jpg</imaxe>
+              <imfondo  trans="20">Captura_de_pantalla_2024-11-01_155722.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="12" >
+              <tipo>39</tipo>
+              <modo>1</modo>
+            <parellas imaxe="Captura_de_pantalla_2024-11-01_161304.jpg" texto="">Captura_de_pantalla_2024-11-01_161648.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2024-11-01_161050.jpg" texto="">Captura_de_pantalla_2024-11-01_161304.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2024-11-01_160432.jpg" texto="">Captura_de_pantalla_2024-11-01_161648.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2024-11-01_160232.jpg" texto="">Captura_de_pantalla_2024-11-01_160232.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2024-11-01_160432.jpg" texto="">Captura_de_pantalla_2024-11-01_161445.jpg</parellas>
+              <parellas imaxe="Captura_de_pantalla_2024-11-01_161050.jpg" texto="">Captura_de_pantalla_2024-11-01_161445.jpg</parellas>
+              <cfondo>FFFFFF</cfondo>
+              <ctapa>000000</ctapa>
+        </paxina>
+        <paxina id="13" >
+              <tipo>1</tipo>
+              <texto>¿Qué son las energías renovables?</texto>
+              <resp texto="" valor="1">Fuente de energía que se obtienen de recursos naturales que se regeneran de manera continua.</resp>
+              <resp texto="" valor="0">Energías que solo se utilizan en países desarrollados.</resp>
+              <resp texto="" valor="0">Energías que requieren combustibles fósiles para funcionar.</resp>
+              <resp texto="" valor="0">Fuentes de energía que no requieren de ningún recurso natural para funcionar.</resp>
+        </paxina>
+        <paxina id="14" >
+              <tipo>1</tipo>
+              <texto>¿Cuantos tipos de energías renovables existen?</texto>
+              <resp texto="" valor="0">3 tipos: Energía eólica, biomasa y solar.</resp>
+              <resp texto="" valor="0">1 tipo: Energía solar.</resp>
+              <resp texto="" valor="1">5 tipos: Energía solar, eólica, hidroulica, biomasa y geotérmica.</resp>
+              <resp texto="" valor="0">2 tipos: Energía geotérmica y hidraulica.</resp>
+        </paxina>
+        <paxina id="15" >
+              <tipo>1</tipo>
+              <texto>¿Cuál de las siguientes opciones es una ventaja de las energías renovables?</texto>
+              <resp texto="" valor="0">No tienen niguna ventaja.</resp>
+              <resp texto="" valor="0">Los recursos no son igual según la zona geográfica.</resp>
+              <resp texto="" valor="0">Son dañinas con la economia del pais.</resp>
+              <resp texto="" valor="1">Respetan más el medio ambiente.</resp>
+        </paxina>
+        <paxina id="16" >
+              <tipo>1</tipo>
+              <texto>¿La obtención de energía es de forma regular o irregular?</texto>
+              <resp texto="" valor="0">Regular.</resp>
+              <resp texto="" valor="1">Irregular.</resp>
+              <resp texto="" valor="0">Tanto regular como irregular.</resp>
+              <resp texto="" valor="0">Es dependiente de su inversión.</resp>
+        </paxina>
+        <paxina id="17" >
+              <tipo>18</tipo>
+              <modo>3</modo>
+              <completa ant="1. La eficiencia" post="reduce el consumo.">energetíca</completa>
+              <completa ant="2. La energía hidraulica utiliza el moviemiento del" post="para generar electricidad en las zonas costeras.">rio</completa>
+              <completa ant="3. La transición hacia las energías" post="es un paso importante contra el cambio climático. ">renovables</completa>
+              <completa ant="4. La energía " post="se encuentra en el interior del planeta. ">geotérmica</completa>
+              <completa ant="5. El uso de energías renovables contribuye a un futuro más" post="para nuestro planeta.">limpio</completa>
+              <completa ant="6. Las energías renovables dismuyen los" post="que se han producido por los combustibles fosiles.">gases invernaderos</completa>
+        </paxina>
+        <paxina id="18" >
+              <tipo>38</tipo>
+              <imaxe>Captura_de_pantalla_2024-11-01_124843.jpg</imaxe>
+              <forma>3</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
